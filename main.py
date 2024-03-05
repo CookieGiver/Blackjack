@@ -210,10 +210,20 @@ class Blackjack():
                 splash_art = f.read()
                 print(splash_art)
                 sleep(2)
-                os.system('cls')
+                clear_screen()
                 
-            names = ['Doug', 'James', 'Steve']
-            players = [Player(1000, name) for name in names]
+            names = []
+            while True:
+                print("Join the game! (type 'x' if you are done adding players)\n")
+                player_name = input("Input Player Name: ")
+                if player_name == 'x':
+                    clear_screen()
+                    break
+                wealth = int(input("Input Player Wealth: "))
+                clear_screen()
+                names.append((wealth, player_name))
+                
+            players = [Player(name[0], name[1]) for name in names]
                 
             house = Hand()
                 
@@ -230,7 +240,7 @@ class Blackjack():
                 # bet
                 game.bet(players)
                 sleep(0.5)
-                os.system('cls')
+                clear_screen()
                 
                 # deal the first four cards (alternating player/comp/player/comp)
                 game.deal(deck, players)
@@ -247,10 +257,10 @@ class Blackjack():
                 for player in players:
                     sleep(0.5)
                     game.player_turn(deck, player)
-                    os.system('cls')
+                    clear_screen()
                     game.print_hands(players, house)
                     
-                os.system('cls')
+                clear_screen()
                 game.house_turn(deck, house)
                 
                 print('')
@@ -259,7 +269,7 @@ class Blackjack():
                 if input("Continue? (y/n): ").lower() == 'n':
                     break
                 else:
-                    os.system('cls')
+                    clear_screen()
                     for player in players:
                         player.hand.clear_cards()
                         house.clear_cards()
@@ -268,6 +278,12 @@ class Blackjack():
                 # if the player's sum doesn't exactly equal to 21, let the computer take its turn (meaning it can choose more cards until it chooses to stop or bust)
                 
                 # calculate who the winner is
+
+def clear_screen():
+    if os.name == 'nt':
+        os.system('cls')
+    elif os.name == 'posix':
+        os.system('clear')
     
 # run the main program
 if __name__ == '__main__':
