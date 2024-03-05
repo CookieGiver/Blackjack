@@ -1,0 +1,76 @@
+        8 888888888o   8 8888                  .8.           ,o888888o.    8 8888     ,88'
+        8 8888    `88. 8 8888                 .888.         8888     `88.  8 8888    ,88' 
+        8 8888     `88 8 8888                :88888.     ,8 8888       `8. 8 8888   ,88'  
+        8 8888     ,88 8 8888               . `88888.    88 8888           8 8888  ,88'   
+        8 8888.   ,88' 8 8888              .8. `88888.   88 8888           8 8888 ,88'    
+        8 8888888888   8 8888             .8`8. `88888.  88 8888           8 8888 88'     
+        8 8888    `88. 8 8888            .8' `8. `88888. 88 8888           8 888888<      
+        8 8888      88 8 8888           .8'   `8. `88888.`8 8888       .8' 8 8888 `Y8.    
+        8 8888    ,88' 8 8888          .888888888. `88888.  8888     ,88'  8 8888   `Y8.  
+        8 888888888P   8 888888888888 .8'       `8. `88888.  `8888888P'    8 8888     `Y8.
+
+                   8 8888       .8.           ,o888888o.    8 8888     ,88'               
+                   8 8888      .888.         8888     `88.  8 8888    ,88'                
+                   8 8888     :88888.     ,8 8888       `8. 8 8888   ,88'                 
+                   8 8888    . `88888.    88 8888           8 8888  ,88'                  
+                   8 8888   .8. `88888.   88 8888           8 8888 ,88'                   
+                   8 8888  .8`8. `88888.  88 8888           8 8888 88'                    
+        88.        8 8888 .8' `8. `88888. 88 8888           8 888888<                     
+        `88.       8 888'.8'   `8. `88888.`8 8888       .8' 8 8888 `Y8.                   
+          `88o.    8 88'.888888888. `88888.  8888     ,88'  8 8888   `Y8.                 
+            `Y888888 ' .8'       `8. `88888.  `8888888P'    8 8888     `Y8.               
+                                                                                                           
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                         AAAAA       AAAA                                           
+                                  AA  AAAAAAAAAAAAAAA       AAA                                     
+                        AAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAA                                       
+                AAAAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                                 
+       AAAAAAAAAAAAAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                          
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                  
+  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA           
+  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA     
+  AAAAAAAAAAAAAAAA   AAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   
+   AAAAAAAAAAAAA         AAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
+   AAAAAAAAAAAA             AAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
+   AAAAAAAAAAA                A  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  
+    AAAAAAAA                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   
+    AAAAAAAA                    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA   
+     AAAAAA                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA    
+     AAAAAA                    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA    
+     AAAAAA                    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA     
+      AAAAAAA           AAAA  AAAAAAAAAAAAAAAAAAA          AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA     
+      AAAAAAAAAAAAAAA    AAA  AAAAAAAAAAAAAAAAA              AAA    AAAAAAAAAAAAAAAAAAAAAAAAAA      
+      AAAAAAAAAAAAAAA     A  AAAAAAAAAAAAAAAAA                          AAAAAAAAAAAAAAAAAAAAAA      
+       AAAAAAAAAAAAAA     A  AAAAAAAAAAAAAAAAA                           AAAAAAAAAAAAAAAAAAAA       
+       AAAAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAA                              AAAAAAAAAAAAAAAAAA       
+        AAAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAA                              AAAAAAAAAAAAAAAAA        
+        AAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAA                             AAAAAAAAAAAAAAAAA        
+        AAAAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAA                            AAAAAAAAAAAAAAAA         
+         AAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAA                          AAAAAAAAAAAAAAAAA         
+         AAAAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAA                       AAAAAAAAAAAAAAAAAA          
+          AAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAA                    AAAAAAAAAAAAAAAAAAAA          
+          AAAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAA                AAAAAAAAAAAAAAAAAAAAAA           
+          AAAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAA           AAAAAAAAAAAAAAAAAAAAAAAAA           
+           AAAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA      AAAAAAAAAAAAAAAAAAAAAAAAAAAA            
+           AAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA            
+           AAAAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA             
+            AAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA             
+            AAAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA              
+            AAAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA              
+             AAAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA               
+             AAAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA               
+              AAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                
+              AAAA  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                
+              AAAAA   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                 
+               AAAAAA     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                 
+               AAAAAAAAAAA       AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                  
+               AAAAAAAAAAAAAAAAA        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                  
+                AAAAAAAAAAAAAAAAAAAA           AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA                   
+                 AAAAAAAAAA                           AAAAAAAAAAAAAAAAAAAAAAAAAAA                   
+                                                             AAAAAAAAAAAAAAAAAAA                    
+                                                                    AAAAAAAAAAA                     
+                                                                                                    
+                                                                                                    
+                                                                                                    
